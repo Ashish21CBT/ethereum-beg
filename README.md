@@ -1,6 +1,6 @@
-# IGT Token (Example)
+# ETH Beginner Project
 
-IGT Token is a simple ERC-20 compatible token contract implemented in Solidity. It allows users to mint and burn tokens, and provides basic information about the token.
+My Token is a simple ERC-20 compatible token contract implemented in Solidity. It allows users to mint and burn tokens, and provides basic information about the token.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ IGT Token is a simple ERC-20 compatible token contract implemented in Solidity. 
 
 ## Overview
 
-IGT Token (Example) is a basic Ethereum token contract that demonstrates the concept of minting and burning tokens. The contract provides essential functions to manage the token's total supply and individual balances.
+My Token is a basic Ethereum token contract that demonstrates the concept of minting and burning tokens. The contract provides essential functions to manage the token's total supply and individual balances.
 
 ## Contract Details
 
@@ -24,7 +24,7 @@ The contract uses the Solidity version 0.8.18 and is licensed under the MIT Lice
 
 ## Getting Started
 
-To get started with using the IGT Token contract, you can follow these steps:
+To get started with using the My Token contract, you can follow these steps:
 
 1. Deploy the contract to the Ethereum network using a development environment like Remix or Truffle.
 2. Interact with the contract using Ethereum wallets or applications that support ERC-20 tokens.
