@@ -49,6 +49,9 @@ Parameters:
 - `sender`: The address from which the tokens will be burned.
 - `value`: The amount of tokens to burn.
 
+## Author
+ASHISH RAI
+
 ## License
 
-This contract is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file.
+This contract is licensed under the MIT License. 
